@@ -1,0 +1,11 @@
+body {
+  margin: auto;
+  margin-top: 25px;
+  width: 600px;
+}
+
+.a {
+  width: 100px;
+  height: 100px;
+  background-color: gray;
+}

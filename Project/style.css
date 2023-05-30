@@ -1,0 +1,84 @@
+html {
+  margin: auto;
+  width: 800px;
+  background: url("background.jpg") no-repeat center fixed;
+  background-size: cover;
+}
+li {
+  display: inline;
+  padding: 100px;
+}
+
+ol {
+  background-color: mediumslateblue;
+  border: 1px black solid;
+}
+
+.div2 {
+  background-color: rgba(127, 10, 244, 0.5);
+  margin-top: 25px;
+  padding: 50px;
+}
+
+.h11 {
+  color: rgb(127, 10, 244);
+  text-align: center;
+  background-color: aqua;
+  border-radius: 30px;
+}
+
+.div1 {
+  height: 20px;
+}
+
+.a1 {
+  text-decoration: none;
+  color: cyan;
+}
+
+.span1 {
+  font-size: large;
+}
+
+h1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  letter-spacing: 2px;
+}
+body {
+  border-radius: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 800px;
+  border: 1px black solid;
+}
+
+.h12 {
+  color: rgb(255, 0, 0);
+}
+
+p {
+  color: cyan;
+}
+
+.h13 {
+  color: yellowgreen;
+}
+
+.h14 {
+  color: yellow;
+}
+.insubmit {
+  width: 50px;
+}
+input {
+  width: 600px;
+}
+
+label {
+  color: white;
+}
+
+.a2 {
+  color: white;
+  font-size: 20px;
+  text-decoration: underline blue;
+}
