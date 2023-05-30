@@ -1,0 +1,30 @@
+h1 {
+  background-color: rgba(71, 138, 0, 0.5);
+  color: black;
+  font-size: 50px;
+}
+
+#div1 {
+  border: 5px solid black;
+  width: 500px;
+  text-align: center;
+  margin-left: 500px;
+  height: 600px;
+  background-color: rgba(225, 255, 0, 0.5);
+}
+
+input {
+  background-color: aqua;
+}
+
+.divbody {
+  margin-top: 150px;
+  background-color: rgba(0, 249, 83, 0.5);
+
+  border: 1px black solid;
+}
+
+html {
+  background: url("backtech.jpg") no-repeat center fixed;
+  background-size: cover;
+}

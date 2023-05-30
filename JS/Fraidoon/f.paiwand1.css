@@ -1,0 +1,104 @@
+body {
+  background: url("backtech.jpg") no-repeat center fixed;
+  background-size: cover;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  padding: 20px;
+  border: black solid 10px;
+  background-color: rgba(0, 51, 255, 0.5);
+
+  border-radius: 50%;
+}
+
+.divp {
+  background-color: rgba(33, 0, 251, 0.37);
+  color: white;
+  padding: 100px;
+  border: 10px red solid;
+
+  border-radius: 10px;
+  width: 800px;
+  position: absolute;
+  margin-left: 250px;
+  height: 720px;
+}
+
+img {
+  width: 240px;
+  height: 240px;
+  position: absolute;
+  border: 10px;
+  border-radius: 100%;
+}
+
+.d {
+  background-color: rgba(0, 225, 255, 0.295);
+  width: 1000px;
+  height: 500px;
+  position: absolute;
+  margin-top: 400px;
+  margin-left: 250px;
+  border: 10px red solid;
+}
+
+.a1 {
+  position: absolute;
+  margin-top: 1000px;
+  text-decoration: underline black;
+  background-color: rgba(0, 255, 255, 0.5);
+}
+
+#f {
+  background-color: rgba(255, 255, 0, 0.5);
+  color: blue;
+}
+
+#t {
+  background-color: yellow;
+}
+table {
+  background-color: rgba(0, 0, 255, 0.5);
+  position: absolute;
+  margin-top: 700px;
+  border: 10px red solid;
+
+  margin-left: 250px;
+  width: 1020px;
+  height: 200px;
+}
+td {
+  background-color: rgba(0, 255, 255, 0.5);
+  border: red solid 10px;
+  text-align: center;
+  color: black;
+  font-size: 20px;
+}
+
+th {
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
+.divalink {
+  position: absolute;
+  margin-top: 1010px;
+  color: blue;
+  background-color: rgba(0, 255, 255, 0.6);
+  font-size: 50pxpx;
+}
+
+.td1 {
+  border-left: none;
+  border-bottom: none;
+}
+.td2 {
+  border-left: none;
+  border-bottom: none;
+}
+.td3 {
+  border-left: none;
+  border-bottom: none;
+}

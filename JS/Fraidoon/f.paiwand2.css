@@ -1,0 +1,122 @@
+#imgsignin {
+  width: 20px;
+  height: 20px;
+}
+
+#div1 {
+  background-color: rgba(0, 255, 55, 0.6);
+  color: rgb(0, 0, 0);
+  padding: 30px;
+  font-size: 25px;
+  text-align: center;
+  border: black solid 10px;
+  border-radius: 10px;
+}
+td {
+  border: 5px solid rgb(0, 0, 0);
+  padding: 10px;
+  text-decoration: none;
+  border-bottom: rgba(0, 255, 55, 0.6) solid;
+  border-top: rgba(0, 255, 55, 0.6) solid;
+  border-left: rgba(255, 0, 0, 0.3) solid;
+}
+
+a:active a:valid a {
+  text-decoration: none;
+}
+.divs {
+  width: 300px;
+  position: absolute;
+}
+
+#div2 {
+  background-color: rgba(255, 0, 0, 0.5);
+  border: black solid 5px;
+  border-radius: 10px;
+}
+
+#div3 {
+  background-color: rgba(0, 255, 255, 0.5);
+  margin-left: 400px;
+  border: black solid 5px;
+  border-radius: 10px;
+}
+
+#div4 {
+  background-color: rgba(124, 104, 238, 0.5);
+  margin-left: 800px;
+  border: black solid 5px;
+  border-radius: 10px;
+}
+
+#div5 {
+  background-color: rgba(255, 192, 203, 0.5);
+  margin-left: 1200px;
+  border: black solid 5px;
+  border-radius: 10px;
+}
+
+#div6 {
+  background-color: rgba(0, 0, 255, 0.5);
+  margin-top: 300px;
+  color: white;
+  border: black solid 5px;
+  border-radius: 10px;
+}
+
+#div7 {
+  background-color: rgba(255, 255, 0, 0.5);
+  margin-top: 300px;
+  color: black;
+  margin-left: 400px;
+  border: black solid 5px;
+  border-radius: 10px;
+}
+#div8 {
+  background-color: rgba(0, 128, 0, 0.5);
+  margin-top: 300px;
+  margin-left: 800px;
+  color: white;
+  border: black solid 5px;
+  border-radius: 10px;
+}
+#div9 {
+  background-color: rgba(255, 0, 255, 0.5);
+  margin-top: 300px;
+  margin-left: 1200px;
+  color: white;
+  border: black solid 5px;
+  border-radius: 10px;
+}
+
+input {
+  background-color: rgba(255, 255, 0, 0.5);
+  color: blue;
+}
+a:link a:visited a:hover a:active {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline red solid;
+}
+table {
+  border: black solid 10px;
+  text-align: center;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.forhtml {
+  border: black solid 5px;
+  border-radius: 10px;
+  margin-top: 30px;
+  height: 800px;
+  width: 1600px;
+  background-color: rgba(0, 255, 115, 0.3);
+}
+
+html {
+  background-image: url("backtech.jpg") no-repeat center fixed;
+  background-size: cover;
+}
